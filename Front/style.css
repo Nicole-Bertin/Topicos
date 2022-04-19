@@ -1,0 +1,50 @@
+body{
+  text-align: center;
+}
+
+h1{
+  text-transform: uppercase;
+}
+
+table{
+  background:#a0532c;
+  border: 2px solid;
+  text-align: center;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+td{
+  background:#f9d2d2;
+  width: 50px;
+  height: 50px;
+  border: 2px solid;
+}
+
+.teclado{
+  background-color: #c8b1b1;
+  font-size: 20px;
+  text-align: center;
+  display: inline-block;
+  width: 70px;
+  padding: 2px;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+
+#instru{
+  width: 400px;
+  position: fixed;
+  right:10px;
+  text-transform: uppercase;
+  border: 2px ;
+  padding: 2px;
+}
+
+#banner-ad{
+  width: 300px;
+  height: 250px;
+  position: fixed;
+  left:auto;
+}
